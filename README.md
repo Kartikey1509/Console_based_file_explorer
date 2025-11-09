@@ -2,7 +2,7 @@
 
 # Implementation Details
 - Language: C++17
-- Key Library: # <filesystem>
+- Key Library: filesystem
 - Platform: Linux/Unix systems
 - Interface: Console/terminal based
 
