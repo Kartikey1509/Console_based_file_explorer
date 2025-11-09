@@ -201,6 +201,6 @@ int main() {
             std::cout << "Unknown command. Type 'help' for options.\n";
     }
 
-    std::cout << "Exiting File Explorer.\n";
+    std::cout << "Exiting File Explorer. Goodbye!\n";
     return 0;
 }
